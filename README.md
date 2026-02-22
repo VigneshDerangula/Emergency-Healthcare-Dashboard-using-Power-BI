@@ -206,11 +206,6 @@ Suitable for sharing with clinical directors, hospital administrators, or interv
 
 ---
 
-## 💼 Resume Bullet Point
-
-> *Built an interactive Power BI emergency room dashboard analysing 9,216 patient records, surfacing a 50% admission rate, 35-minute average wait time, and significant demographic diversity across 7 racial groups — enabling hospital administrators to identify triage bottlenecks, track department referral patterns, and monitor patient satisfaction scores through a fully filterable single-page executive view.*
-
----
 
 ## 🤝 Connect
 
