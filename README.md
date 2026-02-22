@@ -24,6 +24,20 @@ A hospital emergency room generates thousands of patient records every year — 
 Built using **9,216 real-structure ER patient records** spanning two years, the dashboard delivers actionable operational and demographic insights through a clean, filterable single-page view.
 
 ---
+**Monthly View**
+<img width="1306" height="833" alt="image" src="https://github.com/user-attachments/assets/85775479-67ef-47a7-9210-3668483d1100" />
+
+**Consolidated View**
+<img width="1328" height="834" alt="image" src="https://github.com/user-attachments/assets/8dc1ce11-33c1-47bd-95ac-d0e020b3d606" />
+
+**Patient Details**
+<img width="1295" height="839" alt="image" src="https://github.com/user-attachments/assets/e5a501ad-772e-4400-acdc-e247027185f4" />
+
+**Key Takeaways**
+<img width="1311" height="840" alt="image" src="https://github.com/user-attachments/assets/04940766-7631-4e8e-97c0-195a99a156e5" />
+
+
+
 
 ## 📊 KPI Summary
 
