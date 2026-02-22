@@ -209,7 +209,7 @@ Suitable for sharing with clinical directors, hospital administrators, or interv
 
 ## 🤝 Connect
 
-⭐ Star this repo if you found it useful, or reach out via [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/vigneshderangula/) for questions or collaboration.
+⭐ Star this repo if you found it useful, or reach out via LinkedIn [https://www.linkedin.com/in/vigneshderangula/] for questions or collaboration.
 
 ---
 
